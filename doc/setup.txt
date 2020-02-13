@@ -1,0 +1,11 @@
+git@github.com:manoj-tyagi/spring-spark-integration.git
+
+echo "# spring-spark-integration" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin git@github.com:manoj-tyagi/spring-spark-integration.git
+git push -u origin master
+
+How to show current git branch with colors in Bash prompt
+https://medium.com/@thucnc/how-to-show-current-git-branch-with-colors-in-bash-prompt-380d05a24745
